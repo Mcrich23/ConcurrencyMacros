@@ -1,6 +1,6 @@
 #  ConcurrencyMacros
 
-These are some macros I have made to make Swift Concurrency easier to work with
+These are some macros I have made to make Swift Concurrency easier to work with.
 
 ## Usage
 
